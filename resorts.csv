@@ -1,0 +1,332 @@
+id,name,state,summit,vertical_drop,base,trams,fast_eights,fast_sixes,fast_quads,quad,triple,double,surface,total,runs,terrain_parks,longest_run,skiable_terrain,snow_making,days_open_last_year,projected_days_open,night_skiing,mi_night_skiing,mi_pistes,mi_snow_making,years_open,average_snowfall,url
+1,Alyeska Resort,Alaska,3939,2500,250,1,0,0,2,2,0,0,2,7,76,2,1,1610,113,150,150,1,550,,,60,669,http://www.onthesnow.com/alaska/alyeska-resort/ski-resort.html
+2,Eaglecrest Ski Area,Alaska,2600,1540,1200,0,0,0,0,0,0,4,0,4,36,1,2,640,60,45,90,1,,,,44,350,http://www.onthesnow.com/alaska/eaglecrest-ski-area/ski-resort.html
+3,Hilltop Ski Area,Alaska,2090,294,1796,0,0,0,0,0,1,0,2,3,13,1,1,30,30,150,152,1,30,,,36,69,http://www.onthesnow.com/alaska/hilltop-ski-area/ski-resort.html
+4,Arizona Snowbowl,Arizona,11500,2300,9200,0,0,1,0,2,2,1,2,8,55,4,2,777,104,122,122,0,,,,81,260,http://www.onthesnow.com/arizona/arizona-snowbowl/ski-resort.html
+5,Sunrise Park Resort,Arizona,11100,1800,9200,0,0,0,1,2,3,1,0,7,65,2,1.2,800,80,115,104,1,80,,,49,250,http://www.onthesnow.com/arizona/sunrise-park-resort/ski-resort.html
+6,Yosemite Ski & Snowboard Area,California,7800,600,7200,0,0,0,0,0,1,3,1,5,10,2,0.4,88,0,110,107,0,,,,84,300,http://www.onthesnow.com/california/badger-pass/ski-resort.html
+7,Bear Mountain,California,8805,1665,7140,0,0,0,2,1,2,3,4,12,27,14,1.5,198,198,122,130,1,,,,76,100,http://www.onthesnow.com/california/bear-mountain/ski-resort.html
+8,Bear Valley,California,8500,1900,6600,0,0,1,1,0,2,4,2,10,67,2,1.2,1680,100,165,151,0,,,,52,359,http://www.onthesnow.com/california/bear-valley/ski-resort.html
+9,Boreal Mountain Resort,California,7700,500,7200,0,0,0,1,1,3,1,2,8,33,6,1,380,200,150,150,1,200,,,54,400,http://www.onthesnow.com/california/boreal/ski-resort.html
+10,Dodge Ridge,California,8200,1600,6600,0,0,0,0,1,2,5,4,12,67,5,2,862,0,,140,0,,,,69,350,http://www.onthesnow.com/california/dodge-ridge/ski-resort.html
+11,Donner Ski Ranch,California,8012,750,7031,0,0,0,0,0,1,5,2,8,52,2,1.5,505,60,163,170,0,,,,82,400,http://www.onthesnow.com/california/donner-ski-ranch/ski-resort.html
+12,Heavenly Mountain Resort,California,10067,3500,7170,2,0,2,7,1,5,3,8,28,97,3,5.5,4800,3379,155,157,0,,,,64,360,http://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort.html
+13,June Mountain,California,10090,2590,7545,0,0,0,2,0,0,4,1,7,41,2,2,1500,0,,128,0,,,,58,250,http://www.onthesnow.com/california/june-mountain/ski-resort.html
+14,Kirkwood,California,9800,2000,7800,0,0,0,2,1,5,1,3,12,85,2,2.5,2300,200,200,167,0,,,,47,354,http://www.onthesnow.com/california/kirkwood/ski-resort.html
+15,Mammoth Mountain Ski Area,California,11053,3100,7953,3,0,2,9,1,6,4,0,25,154,7,3,3500,700,243,,0,,,,66,400,http://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort.html
+16,Mt. Shasta Ski Park,California,6890,1435,5500,0,0,0,0,0,3,0,1,4,32,2,1.1,425,225,140,130,0,,,,34,300,http://www.onthesnow.com/california/mount-shasta-board-ski-park/ski-resort.html
+17,Mountain High,California,8200,1600,6600,0,0,0,2,2,2,5,3,14,59,1,1.6,290,275,118,150,1,73,,,95,108,http://www.onthesnow.com/california/mountain-high/ski-resort.html
+18,Mt. Baldy,California,8600,2100,6500,0,0,0,0,0,0,4,0,4,26,0,2.5,400,80,175,200,0,,,,67,178,http://www.onthesnow.com/california/mt-baldy/ski-resort.html
+19,Northstar California,California,8610,2280,6330,2,0,1,7,1,2,0,7,20,100,9,1.4,3170,1500,135,150,0,,,,47,350,http://www.onthesnow.com/california/northstar-california/ski-resort.html
+20,Sierra-at-Tahoe,California,8852,2212,6640,0,0,0,3,0,1,5,5,14,46,6,2.5,2000,200,160,144,0,,,,73,460,http://www.onthesnow.com/california/sierra-at-tahoe/ski-resort.html
+21,Ski China Peak,California,8709,1679,7030,0,0,0,0,1,4,2,4,11,45,1,2.2,1400,150,140,144,0,,,12.4,62,300,http://www.onthesnow.com/california/ski-china-peak/ski-resort.html
+22,Snow Summit,California,8200,1200,7000,0,0,0,2,0,4,5,5,16,27,6,1.2,240,240,,130,1,150,,,67,100,http://www.onthesnow.com/california/snow-summit/ski-resort.html
+23,Snow Valley,California,7841,1041,6800,0,0,0,0,0,5,6,1,12,28,6,1.2,240,188,111,143,1,164,,,82,160,http://www.onthesnow.com/california/snow-valley/ski-resort.html
+24,Soda Springs,California,7352,652,6700,0,0,0,0,0,1,1,2,4,18,0,0.4,200,20,150,144,0,,,,83,400,http://www.onthesnow.com/california/soda-springs/ski-resort.html
+25,Squaw Valley - Alpine Meadows,California,9050,2850,6200,2,0,5,5,1,12,10,7,42,230,5,3.2,6000,1000,193,,0,,,,70,450,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort.html
+26,Sugar Bowl Resort,California,8383,1500,6883,1,0,0,5,3,1,0,2,12,105,3,3,1650,375,151,150,0,,,,80,500,http://www.onthesnow.com/california/sugar-bowl-resort/ski-resort.html
+27,Tahoe Donner,California,7350,600,6750,0,0,0,0,1,1,0,3,5,14,2,1,120,0,150,144,0,,,,48,400,http://www.onthesnow.com/california/tahoe-donner/ski-resort.html
+28,Arapahoe Basin Ski Area,Colorado,13050,2530,10780,0,0,0,1,2,1,2,3,9,145,3,1.5,1428,125,230,233,0,,,,73,350,http://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort.html
+29,Aspen / Snowmass,Colorado,12510,4406,8104,3,0,1,15,4,3,5,9,40,336,10,5.3,5517,658,138,138,0,,,,72,300,http://www.onthesnow.com/colorado/aspen-snowmass/ski-resort.html
+30,Beaver Creek,Colorado,11440,3340,8100,2,0,0,11,0,1,1,9,24,150,3,2.8,1832,650,145,138,0,,,,39,323,http://www.onthesnow.com/colorado/beaver-creek/ski-resort.html
+31,Breckenridge,Colorado,12998,3398,9600,1,0,5,6,0,1,6,15,34,187,4,3.5,2908,600,182,163,0,,,,58,300,http://www.onthesnow.com/colorado/breckenridge/ski-resort.html
+32,Copper Mountain Resort,Colorado,12313,2738,9712,1,0,2,4,0,4,4,9,24,150,6,1.7,2527,364,164,164,0,,,,47,300,http://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort.html
+33,Crested Butte Mountain Resort,Colorado,12162,3062,9375,0,0,0,4,2,2,1,5,14,121,4,2.6,1547,297,145,131,0,,,,58,234,http://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort.html
+34,Purgatory,Colorado,10822,2029,8793,0,0,1,2,0,3,3,3,12,101,9,1.3,1605,250,130,130,0,,,,54,260,http://www.onthesnow.com/colorado/durango-mountain-resort/ski-resort.html
+35,Eldora Mountain Resort,Colorado,10600,1400,9200,0,0,1,0,2,1,3,3,10,65,8,3,680,680,147,150,0,,,,57,311,http://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort.html
+36,Howelsen Hill,Colorado,7136,440,6696,0,0,0,0,0,0,1,3,4,17,1,6,50,25,100,100,1,10,,,104,150,http://www.onthesnow.com/colorado/howelsen-hill/ski-resort.html
+37,Keystone,Colorado,12408,3128,9280,2,0,2,4,1,1,2,8,20,128,1,3.5,3148,662,184,,1,288,,,49,235,http://www.onthesnow.com/colorado/keystone/ski-resort.html
+38,Loveland,Colorado,13010,2210,10800,0,0,0,1,3,3,2,1,10,94,1,2,1800,240,205,184,0,,,,82,422,http://www.onthesnow.com/colorado/loveland/ski-resort.html
+39,Monarch Mountain,Colorado,11952,1162,10790,0,0,0,0,1,0,4,2,7,64,2,1,800,0,143,136,0,,,,80,350,http://www.onthesnow.com/colorado/monarch-mountain/ski-resort.html
+40,Powderhorn,Colorado,9850,1650,8200,0,0,0,1,0,0,2,2,5,42,2,1.5,1600,42,111,110,0,,,,53,250,http://www.onthesnow.com/colorado/powderhorn/ski-resort.html
+41,Silverton Mountain,Colorado,13487,3087,10400,0,0,0,0,0,0,1,0,1,69,0,1.5,26819,0,175,181,0,,0.9,,17,400,http://www.onthesnow.com/colorado/silverton-mountain/ski-resort.html
+42,Cooper,Colorado,11700,1200,10500,0,0,0,0,0,1,1,2,4,41,1,1,400,0,130,130,0,,,,74,260,http://www.onthesnow.com/colorado/ski-cooper/ski-resort.html
+43,Ski Granby Ranch,Colorado,9202,1000,8202,0,0,0,2,0,1,1,1,5,40,1,0.6,406,170,116,92,1,100,,,36,220,http://www.onthesnow.com/colorado/ski-granby-ranch/ski-resort.html
+44,Steamboat,Colorado,10568,3668,6900,1,0,1,6,0,5,2,3,18,169,4,3,2965,375,145,145,1,30,,,56,336,http://www.onthesnow.com/colorado/steamboat/ski-resort.html
+45,Sunlight Mountain Resort,Colorado,9895,2010,7885,0,0,0,0,0,1,2,0,3,67,1,2.5,680,30,100,135,0,,,,53,250,http://www.onthesnow.com/colorado/sunlight-mountain-resort/ski-resort.html
+46,Telluride,Colorado,13150,4425,8725,2,0,0,6,1,2,2,4,17,148,3,4.6,2000,220,131,137,0,,,,47,280,http://www.onthesnow.com/colorado/telluride/ski-resort.html
+47,Vail,Colorado,11570,3450,8120,2,0,3,15,1,1,0,9,31,195,3,4,5289,461,149,142,0,,,,57,354,http://www.onthesnow.com/colorado/vail/ski-resort.html
+48,Winter Park Resort,Colorado,12060,3060,9000,1,0,2,7,0,4,6,5,25,166,7,4.9,3081,313,158,151,0,,,,79,360,http://www.onthesnow.com/colorado/winter-park-resort/ski-resort.html
+49,Wolf Creek Ski Area,Colorado,11904,1604,10300,0,0,0,3,1,2,1,3,10,120,0,2,1600,5,130,150,0,,,,80,430,http://www.onthesnow.com/colorado/wolf-creek-ski-area/ski-resort.html
+50,Mohawk Mountain,Connecticut,1600,650,950,0,0,0,0,0,5,0,3,8,25,0,1.5,107,100,,110,1,64,,,72,92,http://www.onthesnow.com/connecticut/mohawk-mountain/ski-resort.html
+51,Mount Southington Ski Area,Connecticut,525,425,100,0,0,0,0,0,2,2,3,7,14,2,0.3,51,51,63,95,1,51,,,55,80,http://www.onthesnow.com/connecticut/mount-southington-ski-area/ski-resort.html
+52,Powder Ridge Park,Connecticut,720,550,170,0,0,0,0,0,1,2,2,5,19,4,0.5,80,68,80,100,1,40,,,60,80,http://www.onthesnow.com/connecticut/powder-ridge-park/ski-resort.html
+53,Ski Sundown,Connecticut,1075,625,450,0,0,0,0,0,3,0,2,5,16,2,1,70,70,84,95,1,66,,,50,45,http://www.onthesnow.com/connecticut/ski-sundown/ski-resort.html
+54,Woodbury Ski Area,Connecticut,730,300,430,0,0,0,0,0,0,1,4,5,12,2,0.2,50,50,126,180,1,35,,,57,70,http://www.onthesnow.com/connecticut/woodbury-ski-area/ski-resort.html
+55,Bogus Basin,Idaho,7582,1800,5800,0,0,0,3,0,1,3,4,11,91,3,1.5,2600,0,134,130,1,165,,,77,250,http://www.onthesnow.com/idaho/bogus-basin/ski-resort.html
+56,Brundage Mountain Resort,Idaho,7640,1800,5840,0,0,0,1,0,4,0,1,6,51,2,3.2,1920,2,126,,0,,,,58,320,http://www.onthesnow.com/idaho/brundage-mountain-resort/ski-resort.html
+57,Kelly Canyon Ski Area,Idaho,6600,1000,5600,0,0,0,0,0,0,4,2,6,51,1,1.3,740,0,118,92,0,,,,62,200,http://www.onthesnow.com/idaho/kelly-canyon-ski-area/ski-resort.html
+58,Lookout Pass Ski Area,Idaho,5650,1150,4500,0,0,0,0,0,1,3,0,4,35,2,1.5,540,0,113,140,0,,,,84,400,http://www.onthesnow.com/idaho/lookout-pass-ski-area/ski-resort.html
+59,Magic Mountain Ski Area,Idaho,7200,700,6500,0,0,0,0,0,0,1,2,3,11,0,1.5,280,0,65,70,0,,,,81,180,http://www.onthesnow.com/idaho/magic-mountain-ski-area/ski-resort.html
+60,Pebble Creek Ski Area,Idaho,8560,2200,6360,0,0,0,0,0,3,0,0,3,54,2,1.3,1100,30,85,91,1,30,2.7,,70,250,http://www.onthesnow.com/idaho/pebble-creek-ski-area/ski-resort.html
+61,Pomerelle Mountain Resort,Idaho,9000,1000,8000,0,0,0,0,0,1,1,1,3,24,2,1.5,500,50,138,138,1,100,,,56,500,http://www.onthesnow.com/idaho/pomerelle-mountain-resort/ski-resort.html
+62,Schweitzer,Idaho,6400,2400,4000,0,0,1,2,0,1,3,2,9,92,3,2.1,2900,47,136,,1,100,,,56,300,http://www.onthesnow.com/idaho/schweitzer/ski-resort.html
+63,Silver Mountain,Idaho,6300,2200,4100,1,0,0,0,1,2,2,1,7,80,2,2.5,1600,225,130,193,1,20,,,29,300,http://www.onthesnow.com/idaho/silver-mountain/ski-resort.html
+64,Soldier Mountain Ski Area,Idaho,7200,1400,5800,0,0,0,0,0,0,2,1,3,36,0,0.4,1142,0,60,,0,,,,71,,http://www.onthesnow.com/idaho/soldier-mountain-ski-area/ski-resort.html
+65,Sun Valley,Idaho,9150,3400,5750,1,0,0,9,0,3,2,3,18,120,7,3,2054,645,149,137,0,,,,83,220,http://www.onthesnow.com/idaho/sun-valley/ski-resort.html
+66,Tamarack Resort,Idaho,7700,2800,4900,0,0,0,2,2,0,0,2,6,48,3,1.5,1020,200,,150,0,,,,15,300,http://www.onthesnow.com/idaho/tamarack-resort/ski-resort.html
+67,Chestnut Mountain Resort,Illinois,1040,475,565,0,0,0,0,2,4,0,3,9,22,3,0.2,139,139,87,112,1,139,,,60,50,http://www.onthesnow.com/illinois/chestnut-mountain-resort/ski-resort.html
+68,Four Lakes,Illinois,500,100,400,0,0,0,0,0,0,0,7,7,7,1,0.1,9,9,78,70,1,9,,,58,24,http://www.onthesnow.com/illinois/four-lakes/ski-resort.html
+69,Ski Snowstar Winter Sports Park,Illinois,790,262,528,0,0,0,0,2,0,2,2,6,15,1,0.8,28,28,56,86,1,28,,,38,38,http://www.onthesnow.com/illinois/ski-snowstar-winter-sports-park/ski-resort.html
+70,Villa Olivia,Illinois,500,180,320,0,0,0,0,1,0,0,6,7,7,1,0.1,15,15,,70,1,15,,,53,25,http://www.onthesnow.com/illinois/villa-olivia/ski-resort.html
+71,Paoli Peaks,Indiana,900,300,600,0,0,0,1,1,3,1,2,8,15,2,0.4,65,65,75,80,1,65,,,41,18,http://www.onthesnow.com/indiana/paoli-peaks/ski-resort.html
+72,Perfect North Slopes,Indiana,800,400,400,0,0,0,0,2,3,0,6,11,23,2,1,100,100,82,90,1,100,,,39,24,http://www.onthesnow.com/indiana/perfect-north-slopes/ski-resort.html
+73,Mt. Crescent Ski Area,Iowa,1500,300,1200,0,0,0,0,1,0,1,0,2,11,1,0.2,50,50,,90,1,50,,,58,30,http://www.onthesnow.com/iowa/mt-crescent-ski-area/ski-resort.html
+74,Seven Oaks,Iowa,975,275,800,0,0,0,0,0,2,0,2,4,11,2,1,35,35,100,100,1,35,,,22,40,http://www.onthesnow.com/iowa/seven-oaks/ski-resort.html
+75,Sundown Mountain,Iowa,1059,475,584,0,0,0,0,1,1,2,2,6,21,2,0.6,55,55,,98,1,55,,,46,45,http://www.onthesnow.com/iowa/sundown-mountain/ski-resort.html
+76,Big Squaw Mountain Ski Resort,Maine,3200,660,1750,0,0,0,0,0,1,0,0,1,29,0,0.8,,0,67,58,0,,,,6,,http://www.onthesnow.com/maine/big-squaw-mountain-ski-resort/ski-resort.html
+77,Camden Snow Bowl,Maine,1080,850,150,0,0,0,0,0,1,1,1,3,26,2,1,100,48,68,70,1,48,,,83,69,http://www.onthesnow.com/maine/camden-snow-bowl/ski-resort.html
+78,Lost Valley,Maine,495,240,255,0,0,0,0,0,0,2,2,4,22,2,0.3,45,45,87,104,1,45,,,58,50,http://www.onthesnow.com/maine/lost-valley/ski-resort.html
+79,Mt. Abram Ski Resort,Maine,2250,1150,1050,0,0,0,0,0,0,2,3,5,54,1,0.5,640,175,120,120,0,,,,59,125,http://www.onthesnow.com/maine/mt-abram-ski-resort/ski-resort.html
+80,Mt. Jefferson,Maine,753,432,351,0,0,0,0,0,0,0,3,3,10,0,0.3,12,0,,95,0,,,,19,,http://www.onthesnow.com/maine/mt-jefferson/ski-resort.html
+81,New Hermon Mountain,Maine,450,350,100,0,0,0,0,0,0,1,2,3,20,0,1.9,70,70,102,117,1,45,,,55,90,http://www.onthesnow.com/maine/new-hermon-mountain/ski-resort.html
+82,Shawnee Peak,Maine,1900,1350,600,0,0,0,0,1,2,1,2,6,43,3,0.8,239,234,97,103,1,110,,,81,110,http://www.onthesnow.com/maine/shawnee-peak/ski-resort.html
+83,Sugarloaf,Maine,4237,2820,1417,0,0,0,2,3,1,5,2,13,162,4,3.5,1240,618,159,155,0,,,,68,200,http://www.onthesnow.com/maine/sugarloaf/ski-resort.html
+84,Sunday River,Maine,3140,2340,800,1,0,0,4,5,3,1,1,15,135,5,3,870,552,165,169,1,140,,,60,167,http://www.onthesnow.com/maine/sunday-river/ski-resort.html
+85,Wisp,Maryland,3115,700,2415,0,0,0,0,2,5,0,5,12,34,3,1.5,172,118,121,120,1,118,,,64,100,http://www.onthesnow.com/maryland/wisp/ski-resort.html
+86,Berkshire East,Massachusetts,1720,1180,540,0,0,0,0,2,1,1,2,6,47,2,2,180,165,120,120,1,80,,,68,120,http://www.onthesnow.com/massachusetts/berkshire-east/ski-resort.html
+87,Blandford Ski Area,Massachusetts,1685,465,1035,0,0,0,0,0,0,3,2,5,29,2,0.5,132,70,,106,1,70,,,83,50,http://www.onthesnow.com/massachusetts/blandford-ski-area/ski-resort.html
+88,Blue Hills Ski Area,Massachusetts,635,309,326,0,0,0,0,0,0,1,3,4,16,1,,60,60,,99,0,,,,19,,http://www.onthesnow.com/massachusetts/blue-hills-ski-area/ski-resort.html
+89,Bousquet Ski Area,Massachusetts,1875,750,1125,0,0,0,0,0,0,3,2,5,23,1,1,200,98,,65,1,100,,,19,83,http://www.onthesnow.com/massachusetts/bousquet-ski-area/ski-resort.html
+90,Bradford Ski Area,Massachusetts,1548,248,1300,0,0,0,0,0,2,0,8,10,15,1,0.3,48,48,,96,0,,,,71,,http://www.onthesnow.com/massachusetts/bradford-ski-area/ski-resort.html
+91,Jiminy Peak,Massachusetts,2380,1150,1230,0,0,1,0,2,3,1,2,9,45,3,2,167,163,121,120,1,104,,,71,90,http://www.onthesnow.com/massachusetts/jiminy-peak/ski-resort.html
+92,Nashoba Valley,Massachusetts,440,240,200,0,0,0,0,0,3,1,7,11,17,2,0.5,52,52,112,126,1,52,,,55,55,http://www.onthesnow.com/massachusetts/nashoba-valley/ski-resort.html
+93,Otis Ridge Ski Area,Massachusetts,1700,400,1300,0,0,0,0,0,0,1,3,4,11,1,1,60,55,106,106,1,35,,,73,70,http://www.onthesnow.com/massachusetts/otis-ridge-ski-area/ski-resort.html
+94,Ski Butternut,Massachusetts,1800,1000,800,0,0,0,0,3,1,1,6,11,22,2,1.5,110,110,107,110,0,,,14,56,115,http://www.onthesnow.com/massachusetts/ski-butternut/ski-resort.html
+95,Ski Ward,Massachusetts,420,210,210,0,0,0,0,0,1,0,3,4,11,1,0.2,45,45,105,120,1,38,,,50,80,http://www.onthesnow.com/massachusetts/ski-ward/ski-resort.html
+96,Wachusett Mountain Ski Area,Massachusetts,2006,1000,1006,0,0,0,3,0,1,0,4,8,27,2,1.5,112,112,,120,1,104,5.8,,57,100,http://www.onthesnow.com/massachusetts/wachusett-mountain-ski-area/ski-resort.html
+97,Alpine Valley Ski Area,Michigan,500,240,126,0,0,0,0,1,2,5,6,14,25,3,0.2,100,100,,128,1,100,,,57,20,http://www.onthesnow.com/michigan/alpine-valley-ski-area/ski-resort.html
+98,Apple Mountain,Michigan,820,220,600,0,0,0,0,1,0,0,5,6,12,0,,80,42,,75,1,80,,,58,52,http://www.onthesnow.com/michigan/apple-mountain/ski-resort.html
+99,Big Powderhorn Mountain,Michigan,1800,600,1200,0,0,0,0,0,0,9,1,10,45,2,1,253,228,100,108,0,,,,55,214,http://www.onthesnow.com/michigan/big-powderhorn-mountain/ski-resort.html
+100,Bittersweet Ski Area,Michigan,850,350,450,0,0,0,0,1,7,0,4,12,20,2,0.2,100,100,80,,1,100,,,36,90,http://www.onthesnow.com/michigan/bittersweet-ski-area/ski-resort.html
+101,Big Snow Resort - Blackjack,Michigan,850,465,385,0,0,0,0,0,0,4,2,6,26,2,1,170,86,95,115,0,,,,42,210,http://www.onthesnow.com/michigan/blackjack-ski-resort/ski-resort.html
+102,Boyne Highlands,Michigan,1290,552,745,0,0,0,1,3,4,0,2,10,55,4,1.2,435,400,97,120,1,150,,,56,140,http://www.onthesnow.com/michigan/boyne-highlands/ski-resort.html
+103,Boyne Mountain Resort,Michigan,1120,500,620,0,0,1,0,4,3,2,2,12,60,7,1,415,380,122,130,1,200,,,71,140,http://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort.html
+104,Caberfae Peaks,Michigan,1569,485,1060,0,0,0,0,1,2,1,1,5,34,2,1.2,200,200,118,130,1,150,,,82,140,http://www.onthesnow.com/michigan/caberfae-peaks-ski-golf-resort/ski-resort.html
+105,Cannonsburg,Michigan,1100,250,850,0,0,0,0,1,1,1,7,10,21,5,0.1,100,0,100,100,0,,,,54,100,http://www.onthesnow.com/michigan/cannonsburg/ski-resort.html
+106,Crystal Mountain,Michigan,1132,375,757,0,0,0,1,3,2,0,2,8,58,3,0.3,102,96,120,135,1,56,56.5,,63,132,http://www.onthesnow.com/michigan/crystal-mountain/ski-resort.html
+107,Big Snow Resort - Indianhead Mountain,Michigan,1935,638,1297,0,0,0,0,1,1,5,2,9,32,2,1,240,150,120,120,0,,,,60,204,http://www.onthesnow.com/michigan/indianhead-mountain/ski-resort.html
+108,Marquette Mountain,Michigan,1357,600,757,0,0,0,0,0,1,2,1,4,35,3,0.7,169,143,139,135,1,89,,,60,210,http://www.onthesnow.com/michigan/marquette-mountain/ski-resort.html
+109,Mont Ripley,Michigan,1140,440,700,0,0,0,0,0,0,2,2,4,25,2,0.8,112,112,114,100,1,100,,,83,275,http://www.onthesnow.com/michigan/mont-ripley/ski-resort.html
+110,Mount Bohemia,Michigan,1500,900,600,0,0,0,0,0,1,1,0,2,102,0,2.3,585,0,83,100,0,,,,19,273,http://www.onthesnow.com/michigan/mount-bohemia/ski-resort.html
+111,Mt. Brighton,Michigan,1330,230,1100,0,0,0,0,2,3,0,8,13,25,5,0.1,130,130,111,100,1,130,,,59,60,http://www.onthesnow.com/michigan/mount-brighton/ski-resort.html
+112,Mt. Holiday Ski Area,Michigan,440,200,240,0,0,0,0,0,0,2,2,4,12,0,0.1,45,45,100,90,1,45,,,70,120,http://www.onthesnow.com/michigan/mount-holiday-ski-area/ski-resort.html
+113,Mount Holly,Michigan,1105,350,755,0,0,0,1,2,3,1,6,13,19,0,0.1,100,100,,102,1,100,,,63,42,http://www.onthesnow.com/michigan/mount-holly/ski-resort.html
+114,Mulligan's Hollow Ski Bowl,Michigan,700,130,570,0,0,0,0,0,0,0,5,5,6,0,0.2,10,10,,92,1,10,,,19,60,http://www.onthesnow.com/michigan/mulligans-hollow-ski-bowl/ski-resort.html
+115,Norway Mountain,Michigan,1335,500,835,0,0,0,0,0,1,2,3,6,17,1,1.4,186,186,110,110,1,40,,,45,100,http://www.onthesnow.com/michigan/norway-mountain/ski-resort.html
+116,Nubs Nob Ski Area,Michigan,1338,427,911,0,0,0,0,3,4,2,1,10,53,3,0.9,248,248,133,130,1,160,,,61,135,http://www.onthesnow.com/michigan/nubs-nob-ski-area/ski-resort.html
+117,Pine Knob Ski Resort,Michigan,1308,300,1009,0,0,0,0,0,0,0,6,6,14,3,1,80,80,,128,0,,,,,,http://www.onthesnow.com/michigan/pine-knob-ski-resort/ski-resort.html
+118,Pine Mountain,Michigan,1650,500,1150,0,0,0,0,0,1,2,1,4,28,1,0.5,160,160,110,126,1,80,,,80,60,http://www.onthesnow.com/michigan/pine-mountain/ski-resort.html
+119,Schuss Mountain at Shanty Creek,Michigan,1125,450,675,0,0,0,0,5,0,0,3,8,42,3,1,70,70,94,111,1,70,,,57,160,http://www.onthesnow.com/michigan/shanty-creek/ski-resort.html
+120,Ski Brule,Michigan,1860,500,1360,0,0,0,0,0,0,5,7,12,17,3,1,150,150,164,165,1,40,,,62,150,http://www.onthesnow.com/michigan/ski-brule/ski-resort.html
+121,Snow Snake Mountain Ski Area,Michigan,1230,210,1020,0,0,0,0,0,1,0,5,6,12,2,0,40,40,,106,1,40,,,72,,http://www.onthesnow.com/michigan/snow-snake-mountain-ski-area/ski-resort.html
+122,Swiss Valley,Michigan,1200,225,975,0,0,0,0,2,1,0,4,7,11,2,0.1,60,60,89,80,1,60,,,51,60,http://www.onthesnow.com/michigan/swiss-valley/ski-resort.html
+123,The Homestead,Michigan,900,320,580,0,0,0,0,0,2,1,2,5,15,1,0.2,16,16,47,42,1,16,,,34,150,http://www.onthesnow.com/michigan/the-homestead/ski-resort.html
+124,Timber Ridge,Michigan,850,250,600,0,0,0,0,1,1,2,4,8,16,2,0.3,50,50,80,,1,50,,,58,,http://www.onthesnow.com/michigan/timber-ridge/ski-resort.html
+125,Treetops Resort,Michigan,1345,225,1120,0,0,0,0,0,3,0,2,5,23,3,0.2,80,80,63,101,1,80,,,65,175,http://www.onthesnow.com/michigan/treetops-resort/ski-resort.html
+126,Afton Alps,Minnesota,1530,350,1180,0,0,0,0,1,3,14,4,22,48,5,0.5,250,250,135,135,1,250,,,56,60,http://www.onthesnow.com/minnesota/afton-alps/ski-resort.html
+127,Andes Tower Hills Ski Area,Minnesota,1620,290,1330,0,0,0,0,1,2,0,3,6,15,2,0.2,35,35,100,110,1,35,,,38,55,http://www.onthesnow.com/minnesota/andes-tower-hills-ski-area/ski-resort.html
+128,Buck Hill,Minnesota,1225,309,919,0,0,0,0,2,1,0,5,8,16,0,0.2,45,45,115,112,1,45,,,65,60,http://www.onthesnow.com/minnesota/buck-hill/ski-resort.html
+129,Buena Vista Ski Area,Minnesota,1510,230,1280,0,0,0,0,0,2,2,2,6,17,0,0.3,30,30,57,60,1,30,,,70,78,http://www.onthesnow.com/minnesota/buena-vista-ski-area/ski-resort.html
+130,Coffee Mill Ski & Snowboard Resort,Minnesota,1150,425,725,0,0,0,0,0,0,2,1,3,14,1,1,40,35,57,56,1,35,,,39,48,http://www.onthesnow.com/minnesota/coffee-mill-ski-snowboard-resort/ski-resort.html
+131,Elm Creek Winter Recreation Area,Minnesota,928,60,868,0,0,0,0,0,0,0,3,3,3,0,1,15,20,105,102,1,15,,,13,45,http://www.onthesnow.com/minnesota/elm-creek/ski-resort.html
+132,Giants Ridge Resort,Minnesota,1972,500,1472,0,0,0,1,1,1,2,2,7,35,2,0.8,202,202,120,125,1,121,,,35,85,http://www.onthesnow.com/minnesota/giants-ridge-resort/ski-resort.html
+133,Hyland Ski & Snowboard Area,Minnesota,1075,175,900,0,0,0,0,2,1,0,5,8,14,1,1,35,35,110,115,1,35,,,61,55,http://www.onthesnow.com/minnesota/hyland-ski-snowboard-area/ski-resort.html
+134,Lutsen Mountains,Minnesota,1688,825,800,1,0,1,0,0,1,4,1,8,62,2,2,393,231,135,127,0,,,,71,120,http://www.onthesnow.com/minnesota/lutsen-mountains/ski-resort.html
+135,Mount Kato Ski Area,Minnesota,540,240,300,0,0,0,0,5,0,3,2,10,19,4,1,55,55,115,120,1,50,,,43,50,http://www.onthesnow.com/minnesota/mount-kato-ski-area/ski-resort.html
+136,Powder Ridge Ski Area,Minnesota,790,300,500,0,0,0,0,1,0,2,3,6,15,4,,60,60,97,113,1,60,,,58,45,http://www.onthesnow.com/minnesota/powder-ridge-ski-area/ski-resort.html
+137,Spirit Mountain,Minnesota,1320,700,620,0,0,0,1,1,2,1,2,7,22,3,1,175,175,100,125,1,144,,,45,100,http://www.onthesnow.com/minnesota/spirit-mountain/ski-resort.html
+138,Welch Village,Minnesota,1060,360,700,0,0,0,0,3,1,4,2,10,50,1,0.8,125,125,114,122,1,100,,,54,45,http://www.onthesnow.com/minnesota/welch-village/ski-resort.html
+139,Wild Mountain Ski & Snowboard Area,Minnesota,1113,300,813,0,0,0,0,4,0,0,4,8,26,4,0.9,100,100,130,140,1,100,,,47,50,http://www.onthesnow.com/minnesota/wild-mountain-ski-snowboard-area/ski-resort.html
+140,Hidden Valley Ski Area,Missouri,2566,310,2316,0,0,0,0,2,2,0,3,7,17,0,0.1,30,30,,100,1,17,,,37,26,http://www.onthesnow.com/missouri/hidden-valley-ski-area/ski-resort.html
+141,Snow Creek,Missouri,1100,300,800,0,0,0,0,0,2,1,2,5,14,2,0.3,30,30,69,85,1,30,0.4,0.1,33,20,http://www.onthesnow.com/missouri/snow-creek/ski-resort.html
+142,Big Sky Resort,Montana,11166,4350,7500,1,1,2,5,3,7,5,12,36,317,8,6,5800,400,144,144,0,,,,46,400,http://www.onthesnow.com/montana/big-sky-resort/ski-resort.html
+143,Blacktail Mountain Ski Area,Montana,6676,1440,5236,0,0,0,0,0,1,2,1,4,27,0,0.7,1000,0,,119,0,,,,21,250,http://www.onthesnow.com/montana/blacktail-mountain-ski-area/ski-resort.html
+144,Bridger Bowl,Montana,8700,2600,6100,0,0,0,0,1,6,1,3,11,105,2,1.5,2000,100,122,133,0,,,,64,350,http://www.onthesnow.com/montana/bridger-bowl/ski-resort.html
+145,Discovery Ski Area,Montana,8150,2380,5770,0,0,0,0,0,5,2,1,8,74,1,1.5,2400,25,116,116,0,,,,46,225,http://www.onthesnow.com/montana/discovery-ski-area/ski-resort.html
+146,Great Divide,Montana,7330,1580,5750,0,0,0,0,0,0,5,1,6,110,6,3,1600,150,94,100,1,100,,3.7,78,180,http://www.onthesnow.com/montana/great-divide/ski-resort.html
+147,Lost Trail - Powder Mtn,Montana,8200,1800,6400,0,0,0,0,0,0,5,3,8,69,2,2.5,1800,0,84,80,0,,,,81,325,http://www.onthesnow.com/montana/lost-trail-powder-mtn/ski-resort.html
+148,Maverick Mountain,Montana,8520,2020,6500,0,0,0,0,0,0,1,1,2,22,0,1.3,255,0,,120,0,,,,83,160,http://www.onthesnow.com/montana/maverick-mountain/ski-resort.html
+149,Montana Snowbowl,Montana,7600,2600,5000,0,0,0,0,0,0,2,2,4,37,0,1.2,950,20,,127,1,10,,,58,300,http://www.onthesnow.com/montana/montana-snowbowl/ski-resort.html
+150,Red Lodge Mountain,Montana,9416,2400,7016,0,0,0,2,0,1,3,1,7,70,2,2.5,1635,496,142,136,0,,,,59,250,http://www.onthesnow.com/montana/red-lodge-mountain/ski-resort.html
+151,Showdown Montana,Montana,8200,1400,6800,0,0,0,0,0,1,2,1,4,36,1,1.8,640,0,86,85,0,,,,83,250,http://www.onthesnow.com/montana/showdown-ski-area/ski-resort.html
+152,Teton Pass Ski Resort,Montana,7200,1010,6190,0,0,0,0,0,0,1,2,3,43,1,3,330,0,40,150,0,,,,54,250,http://www.onthesnow.com/montana/teton-pass-ski-area/ski-resort.html
+153,Whitefish Mountain Resort,Montana,6817,2353,4464,0,0,0,3,2,6,0,3,14,105,4,3.3,3000,600,123,123,1,600,,,72,333,http://www.onthesnow.com/montana/whitefish-mountain-resort/ski-resort.html
+154,Diamond Peak,Nevada,8540,1840,6700,0,0,0,1,2,0,3,1,7,30,3,2.5,655,492,100,122,0,,,,53,300,http://www.onthesnow.com/nevada/diamond-peak/ski-resort.html
+155,Elko SnoBowl,Nevada,7000,700,6300,0,0,0,0,0,0,1,1,2,10,0,1,60,2,19,30,0,,,,23,24,http://www.onthesnow.com/nevada/elko-snobowl/ski-resort.html
+156,Lee Canyon,Nevada,11289,860,8510,0,0,0,0,2,1,0,0,3,24,1,0.3,195,50,144,150,0,,,,56,161,http://www.onthesnow.com/nevada/las-vegas-ski-and-snowboard-resort/ski-resort.html
+157,Mt. Rose - Ski Tahoe,Nevada,9700,1800,8260,0,0,2,0,2,2,0,2,8,65,5,2.5,1200,330,152,150,0,,,,55,350,http://www.onthesnow.com/nevada/mt-rose-ski-tahoe/ski-resort.html
+158,Attitash,New Hampshire,2350,1750,600,0,0,0,2,1,3,2,1,9,68,3,3,311,240,115,130,0,,,,54,120,http://www.onthesnow.com/new-hampshire/attitash/ski-resort.html
+159,Black Mountain,New Hampshire,2350,1100,1250,0,0,0,0,0,1,1,3,5,45,0,1.6,143,120,110,107,0,,,,84,125,http://www.onthesnow.com/new-hampshire/black-mountain/ski-resort.html
+160,Bretton Woods,New Hampshire,3100,1500,1600,0,0,0,4,1,1,0,3,9,63,2,2,464,427,180,180,1,45,,,46,200,http://www.onthesnow.com/new-hampshire/bretton-woods/ski-resort.html
+161,Cannon Mountain,New Hampshire,4080,2180,1900,1,0,0,1,2,3,1,3,11,97,3,2.3,285,192,124,143,0,,,,81,160,http://www.onthesnow.com/new-hampshire/cannon-mountain/ski-resort.html
+162,Cranmore Mountain Resort,New Hampshire,2000,1200,600,0,0,0,1,1,2,1,2,7,57,4,1,200,192,107,128,0,,,,82,150,http://www.onthesnow.com/new-hampshire/cranmore-mountain-resort/ski-resort.html
+163,Crotched Mountain,New Hampshire,2066,1016,1050,0,0,0,1,1,1,1,1,5,25,3,1.2,100,100,105,100,1,100,,,16,105,http://www.onthesnow.com/new-hampshire/crotched-mountain/ski-resort.html
+164,Dartmouth Skiway,New Hampshire,1943,969,974,0,0,0,0,1,0,1,2,4,28,1,1.1,107,54,104,105,0,,,,63,100,http://www.onthesnow.com/new-hampshire/dartmouth-skiway/ski-resort.html
+165,Gunstock,New Hampshire,2300,1400,900,0,0,0,1,2,2,0,1,6,55,4,1.5,227,176,106,,1,60,,,82,120,http://www.onthesnow.com/new-hampshire/gunstock/ski-resort.html
+166,King Pine,New Hampshire,850,350,500,0,0,0,0,0,3,0,3,6,17,2,0.3,48,45,105,107,1,23,,,57,120,http://www.onthesnow.com/new-hampshire/king-pine/ski-resort.html
+167,Loon Mountain,New Hampshire,3050,2100,950,1,0,0,3,1,1,3,2,11,61,6,2.5,370,322,149,144,0,,,,53,160,http://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort.html
+168,Mount Sunapee,New Hampshire,2743,1510,1233,0,0,0,2,1,2,1,4,10,66,4,0.8,232,215,130,136,0,,,,71,100,http://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort.html
+169,Pats Peak,New Hampshire,1460,770,690,0,0,0,0,0,4,2,5,11,28,3,1.5,115,115,109,112,1,93,,,56,100,http://www.onthesnow.com/new-hampshire/pats-peak/ski-resort.html
+170,Ragged Mountain Resort,New Hampshire,2250,1250,1000,0,0,1,1,0,1,0,3,6,57,3,0.7,250,200,,140,0,,,,54,100,http://www.onthesnow.com/new-hampshire/ragged-mountain-resort/ski-resort.html
+171,Waterville Valley,New Hampshire,4004,2020,1984,0,0,0,2,0,2,3,4,11,62,4,1.9,265,220,142,142,0,,,,54,148,http://www.onthesnow.com/new-hampshire/waterville-valley/ski-resort.html
+172,Whaleback Mountain,New Hampshire,1800,700,1100,0,0,0,0,0,0,1,3,4,30,1,1,85,60,105,105,1,55,,,64,110,http://www.onthesnow.com/new-hampshire/whaleback-mountain/ski-resort.html
+173,Wildcat Mountain,New Hampshire,4062,2112,1950,0,0,0,1,0,3,0,1,5,48,0,2.8,225,200,156,150,0,,,,61,200,http://www.onthesnow.com/new-hampshire/wildcat-mountain/ski-resort.html
+174,Campgaw Mountain,New Jersey,726,274,450,0,0,0,0,0,0,2,3,5,12,1,0.3,23,23,80,,1,14,,,58,45,http://www.onthesnow.com/new-jersey/campgaw-mountain/ski-resort.html
+175,Mountain Creek Resort,New Jersey,1480,1040,440,1,0,0,2,2,1,1,3,10,46,3,2,167,167,90,100,1,167,,,54,65,http://www.onthesnow.com/new-jersey/mountain-creek-resort/ski-resort.html
+176,Angel Fire Resort,New Mexico,10677,2077,8600,0,0,0,2,0,0,3,2,7,81,3,3,560,230,101,101,1,50,,,53,210,http://www.onthesnow.com/new-mexico/angel-fire-resort/ski-resort.html
+177,Enchanted Forest Ski Area,New Mexico,10078,400,9820,0,0,0,0,0,0,0,0,0,33,0,2.5,600,0,130,140,0,,,,34,240,http://www.onthesnow.com/new-mexico/enchanted-forest-cross-countryski-area/ski-resort.html
+178,Pajarito Mountain Ski Area,New Mexico,10441,1410,9031,0,0,0,0,1,1,3,1,6,45,2,0.6,750,35,89,117,0,,,,62,163,http://www.onthesnow.com/new-mexico/pajarito-mountain-ski-area/ski-resort.html
+179,Red River,New Mexico,10350,1600,8750,0,0,0,0,1,3,1,2,7,63,3,2.5,209,0,110,,0,,,,60,214,http://www.onthesnow.com/new-mexico/red-river/ski-resort.html
+180,Sandia Peak,New Mexico,10378,1700,8678,0,0,0,0,0,0,4,1,5,39,1,2,200,30,32,38,0,,,,82,100,http://www.onthesnow.com/new-mexico/sandia-peak/ski-resort.html
+181,Sipapu Ski Resort,New Mexico,9255,1055,8200,0,0,0,0,1,2,0,3,6,42,4,0.5,200,140,127,143,0,,,,67,190,http://www.onthesnow.com/new-mexico/sipapu-ski-and-summer-resort/ski-resort.html
+182,Ski Apache,New Mexico,11500,1900,9600,1,0,0,0,2,6,0,2,11,55,3,2,750,270,133,124,0,,,,58,185,http://www.onthesnow.com/new-mexico/ski-apache/ski-resort.html
+183,Ski Santa Fe,New Mexico,12075,1725,10350,0,0,0,0,1,2,2,2,7,83,1,3,660,275,107,130,0,,,,73,225,http://www.onthesnow.com/new-mexico/ski-santa-fe/ski-resort.html
+184,Taos Ski Valley,New Mexico,12481,3281,9200,1,0,0,1,3,4,1,4,14,111,1,5,1294,647,137,136,0,,,13,64,300,http://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort.html
+185,Belleayre,New York,3429,1404,2025,1,0,0,1,1,1,2,2,8,50,2,2.2,175,168,154,150,0,,,,70,130,http://www.onthesnow.com/new-york/belleayre/ski-resort.html
+186,Brantling Ski Slopes,New York,850,250,600,0,0,0,0,0,0,0,5,5,10,0,0.1,20,16,,101,0,,,,19,110,http://www.onthesnow.com/new-york/brantling-ski-slopes/ski-resort.html
+187,Bristol Mountain,New York,2200,1200,1000,0,0,0,2,1,1,1,1,6,34,3,2,160,148,129,129,1,154,,,55,60,http://www.onthesnow.com/new-york/bristol-mountain/ski-resort.html
+188,Buffalo Ski Club Ski Area,New York,3429,500,2025,0,0,0,0,0,0,2,4,6,43,1,,225,150,,79,1,100,,,12,,http://www.onthesnow.com/new-york/buffalo-ski-club-ski-area/ski-resort.html
+189,Catamount,New York,2000,1000,1000,0,0,0,0,1,1,2,3,7,36,5,2,133,130,100,90,1,55,,8.7,80,108,http://www.onthesnow.com/new-york/catamount-ski-ride-area/ski-resort.html
+190,Dry Hill Ski Area,New York,950,300,650,0,0,0,0,0,0,1,2,3,7,1,0.2,35,26,,108,1,26,,,55,125,http://www.onthesnow.com/new-york/dry-hill-ski-area/ski-resort.html
+191,Gore Mountain,New York,3600,2537,998,1,0,0,2,2,3,2,4,14,110,7,4.5,439,338,142,,1,15,41.3,29.8,55,150,http://www.onthesnow.com/new-york/gore-mountain/ski-resort.html
+192,Greek Peak,New York,2100,952,1148,0,0,0,0,1,1,4,2,8,56,4,1.5,220,184,110,113,1,175,,,62,122,http://www.onthesnow.com/new-york/greek-peak/ski-resort.html
+193,Holiday Mountain,New York,1550,400,1150,0,0,0,0,1,0,1,2,4,9,0,0.4,37,37,75,85,1,37,,,60,50,http://www.onthesnow.com/new-york/holiday-mountain/ski-resort.html
+194,Holiday Valley,New York,2250,750,1500,0,0,0,3,8,0,0,2,13,60,5,1,290,266,116,129,1,189,,,62,180,http://www.onthesnow.com/new-york/holiday-valley/ski-resort.html
+195,Holimont Ski Area,New York,2260,700,1560,0,0,0,1,1,2,3,1,8,53,3,1.5,135,135,110,119,0,,,,57,180,http://www.onthesnow.com/new-york/holimont-ski-area/ski-resort.html
+196,Hunt Hollow Ski Club,New York,2030,825,1000,0,0,0,0,0,1,1,1,3,19,1,1,400,400,,75,1,400,,,52,130,http://www.onthesnow.com/new-york/hunt-hollow-ski-club/ski-resort.html
+197,Hunter Mountain,New York,3200,1600,1600,0,0,2,1,2,2,2,4,13,67,4,2,320,320,148,155,0,,,,59,120,http://www.onthesnow.com/new-york/hunter-mountain/ski-resort.html
+198,Kissing Bridge,New York,1700,550,1150,0,0,0,0,2,1,4,3,10,39,5,0.5,700,550,103,100,1,650,,,59,120,http://www.onthesnow.com/new-york/kissing-bridge/ski-resort.html
+199,Labrador Mt.,New York,1825,700,1125,0,0,0,0,0,1,2,1,4,23,1,1,250,237,,100,1,180,,,62,125,http://www.onthesnow.com/new-york/labrador-mt/ski-resort.html
+200,Maple Ski Ridge,New York,1200,450,750,0,0,0,0,0,1,1,1,3,10,0,0.3,25,25,,69,1,20,,,57,,http://www.onthesnow.com/new-york/maple-ski-ridge/ski-resort.html
+201,McCauley Mountain Ski Center,New York,2250,633,1563,0,0,0,0,0,0,1,4,5,23,1,0.3,70,55,105,105,0,,,,61,200,http://www.onthesnow.com/new-york/mccauley-mountain-ski-center/ski-resort.html
+202,Mount Peter Ski Area,New York,1250,450,750,0,0,0,0,1,0,2,2,5,14,1,1,69,69,100,100,1,69,,,83,50,http://www.onthesnow.com/new-york/mount-peter-ski-area/ski-resort.html
+203,Oak Mountain,New York,2400,650,1750,0,0,0,0,1,0,0,3,4,22,1,1.2,46,18,,106,1,12,,,71,120,http://www.onthesnow.com/new-york/oak-mountain/ski-resort.html
+204,Peek'n Peak,New York,1800,400,1400,0,0,0,0,0,8,0,2,10,27,4,2.4,110,110,110,,1,110,,,55,225,http://www.onthesnow.com/new-york/peekn-peak/ski-resort.html
+205,Plattekill Mountain,New York,3500,1100,2400,0,0,0,0,0,1,1,2,4,38,1,2,110,75,65,65,0,,1.2,,26,175,http://www.onthesnow.com/new-york/plattekill-mountain/ski-resort.html
+206,Royal Mountain Ski Area,New York,1800,550,1250,0,0,0,0,0,0,3,0,3,14,0,0.3,35,28,,127,0,,,,63,90,http://www.onthesnow.com/new-york/royal-mountain-ski-area/ski-resort.html
+207,Snow Ridge,New York,2000,650,1350,0,0,0,0,0,0,4,2,6,21,2,0.8,130,65,73,100,1,40,,,74,230,http://www.onthesnow.com/new-york/snow-ridge/ski-resort.html
+208,Song Mountain,New York,1940,700,1240,0,0,0,0,0,1,1,3,5,24,0,0.4,93,70,90,122,1,70,,,55,125,http://www.onthesnow.com/new-york/song-mountain/ski-resort.html
+209,Swain,New York,1970,650,1320,0,0,0,0,3,0,1,1,5,35,3,1,130,90,102,100,1,80,,,72,120,http://www.onthesnow.com/new-york/swain/ski-resort.html
+210,Thunder Ridge,New York,1270,500,770,0,0,0,0,0,1,2,3,6,30,0,0.4,100,100,121,121,1,100,,,60,,http://www.onthesnow.com/new-york/thunder-ridge/ski-resort.html
+211,Titus Mountain,New York,2025,1200,825,0,0,0,0,0,2,6,2,10,50,3,2,200,150,101,100,1,70,,11.2,59,150,http://www.onthesnow.com/new-york/titus-mountain/ski-resort.html
+212,Toggenburg Mountain,New York,2000,700,1300,0,0,0,0,0,1,1,3,5,22,2,0.4,85,0,,122,1,73,,,66,130,http://www.onthesnow.com/new-york/toggenburg-mountain/ski-resort.html
+213,West Mountain,New York,1470,1010,460,0,0,0,0,0,1,2,2,5,29,1,0.6,124,105,,120,1,105,,,58,80,http://www.onthesnow.com/new-york/west-mountain/ski-resort.html
+214,Whiteface Mountain Resort,New York,4650,3430,1220,1,0,0,1,1,2,5,2,12,86,5,2.1,288,220,122,141,0,,,,61,168,http://www.onthesnow.com/new-york/whiteface-mountain-resort/ski-resort.html
+215,Willard Mountain,New York,1415,505,910,0,0,0,0,0,0,2,3,5,16,0,0.4,50,35,85,120,1,35,,,19,80,http://www.onthesnow.com/new-york/willard-mountain/ski-resort.html
+216,Windham Mountain,New York,3100,1600,1500,0,0,1,2,0,3,1,5,12,54,6,2,285,280,123,130,1,56,12,,59,105,http://www.onthesnow.com/new-york/windham-mountain/ski-resort.html
+217,Woods Valley Ski Area,New York,1400,500,900,0,0,0,0,0,0,2,4,6,21,0,0.3,25,16,,128,1,15,,,55,180,http://www.onthesnow.com/new-york/woods-valley-ski-area/ski-resort.html
+218,Appalachian Ski Mountain,North Carolina,4000,365,3635,0,0,0,0,2,0,1,2,5,12,3,0.5,27,27,100,100,1,27,,,57,50,http://www.onthesnow.com/north-carolina/appalachian-ski-mtn/ski-resort.html
+219,Cataloochee Ski Area,North Carolina,5400,740,4660,0,0,0,0,1,1,1,2,5,18,2,1,50,50,141,108,1,50,,0.6,58,50,http://www.onthesnow.com/north-carolina/cataloochee-ski-area/ski-resort.html
+220,Sapphire Valley,North Carolina,3450,200,3200,0,0,0,0,1,0,0,2,3,2,1,1,8,8,53,60,1,8,0.4,,55,24,http://www.onthesnow.com/north-carolina/sapphire-valley/ski-resort.html
+221,Beech Mountain Resort,North Carolina,5506,830,4675,0,0,0,0,3,0,3,2,8,17,1,1,95,95,98,,1,95,,,52,31,http://www.onthesnow.com/north-carolina/ski-beech-mountain-resort/ski-resort.html
+222,Sugar Mountain Resort,North Carolina,5300,1200,4100,0,0,1,0,0,1,4,2,8,21,1,1.5,125,125,114,120,1,95,,,50,77,http://www.onthesnow.com/north-carolina/sugar-mountain-resort/ski-resort.html
+223,Wolf Ridge Ski Resort,North Carolina,4700,720,4000,0,0,0,0,1,0,1,2,4,15,1,0.6,65,65,,100,1,60,,,49,65,http://www.onthesnow.com/north-carolina/wolf-ridge-ski-resort/ski-resort.html
+224,Alpine Valley,Ohio,1500,230,1260,0,0,0,0,1,2,1,1,5,11,1,0.2,72,72,105,,1,72,,,53,120,http://www.onthesnow.com/ohio/alpine-valley/ski-resort.html
+225,Boston Mills,Ohio,871,264,631,0,0,0,0,0,4,2,2,8,7,2,0.3,40,40,92,110,1,40,,,56,51,http://www.onthesnow.com/ohio/boston-mills/ski-resort.html
+226,Brandywine,Ohio,871,240,631,0,0,0,0,2,7,2,5,16,11,2,0.3,85,85,92,110,1,85,,,56,51,http://www.onthesnow.com/ohio/brandywine/ski-resort.html
+227,Mad River Mountain,Ohio,1460,300,1160,0,0,0,0,1,2,3,6,12,20,4,0.5,144,144,99,90,1,144,,,57,36,http://www.onthesnow.com/ohio/mad-river-mountain/ski-resort.html
+228,Snow Trails,Ohio,1475,301,1174,0,0,0,0,0,4,2,3,9,17,3,0.2,80,80,101,70,1,80,,,58,50,http://www.onthesnow.com/ohio/snow-trails/ski-resort.html
+229,Anthony Lakes Mountain Resort,Oregon,8000,900,7100,0,0,0,0,0,1,0,2,3,21,2,1.5,1100,0,75,80,0,,,,56,300,http://www.onthesnow.com/oregon/anthony-lakes-mountain-resort/ski-resort.html
+230,Cooper Spur,Oregon,4000,350,3500,0,0,0,0,0,0,1,1,2,10,0,0.1,50,0,78,90,0,,,,66,100,http://www.onthesnow.com/oregon/cooper-spur/ski-resort.html
+231,Hoodoo Ski Area,Oregon,5703,1035,4668,0,0,0,0,3,1,1,0,5,34,0,0.4,806,0,80,108,1,200,,,81,350,http://www.onthesnow.com/oregon/hoodoo-ski-area/ski-resort.html
+232,Mt. Ashland,Oregon,7533,1150,6383,0,0,0,0,0,2,2,1,5,23,2,1,220,0,94,92,1,40,,,55,300,http://www.onthesnow.com/oregon/mount-ashland/ski-resort.html
+233,Mt. Bachelor,Oregon,9065,3365,5700,0,0,0,8,0,3,0,0,11,101,5,4,4318,20,185,185,0,,,2.5,61,462,http://www.onthesnow.com/oregon/mt-bachelor/ski-resort.html
+234,Mt. Hood Meadows,Oregon,7300,2777,4523,0,0,0,6,0,0,5,2,13,85,6,3,2150,0,118,160,1,170,,,51,430,http://www.onthesnow.com/oregon/mt-hood-meadows/ski-resort.html
+235,Mt. Hood Skibowl,Oregon,5100,1500,3600,0,0,0,0,0,0,4,5,9,65,2,3,960,29,125,144,1,317,,,82,300,http://www.onthesnow.com/oregon/mt-hood-ski-bowl/ski-resort.html
+236,Spout Springs,Oregon,5500,610,4850,0,0,0,0,0,0,2,2,4,14,0,0.1,200,0,117,125,1,100,,,19,118,http://www.onthesnow.com/oregon/spout-springs/ski-resort.html
+237,Timberline Lodge,Oregon,8540,3690,6000,0,0,0,5,0,1,1,1,8,41,5,2,1415,0,305,305,1,300,,,82,550,http://www.onthesnow.com/oregon/timberline-lodge/ski-resort.html
+238,Willamette Pass,Oregon,6683,1563,5120,0,0,1,0,0,3,0,1,5,29,0,2.1,555,60,3,100,0,,,,78,430,http://www.onthesnow.com/oregon/willamette-pass/ski-resort.html
+239,Bear Creek Mountain Resort,Pennsylvania,1100,510,600,0,0,0,0,3,1,0,2,6,23,3,1,86,86,91,90,1,86,,,52,30,http://www.onthesnow.com/pennsylvania/bear-creek-mountain-resort/ski-resort.html
+240,Ski Big Bear,Pennsylvania,1250,650,600,0,0,0,0,0,0,4,2,6,18,1,1.5,26,26,75,75,1,26,,,43,69,http://www.onthesnow.com/pennsylvania/big-bear/ski-resort.html
+241,Big Boulder,Pennsylvania,2175,600,1700,0,0,0,0,0,2,5,1,8,16,8,,55,55,76,95,1,55,,,72,50,http://www.onthesnow.com/pennsylvania/big-boulder/ski-resort.html
+242,Blue Knob,Pennsylvania,3146,1072,2074,0,0,0,0,0,2,2,2,6,34,1,2,100,84,87,105,1,42,,,56,120,http://www.onthesnow.com/pennsylvania/blue-knob/ski-resort.html
+243,Blue Mountain Resort,Pennsylvania,1600,1082,460,0,0,1,1,1,1,3,9,16,39,5,1.2,164,164,122,112,1,164,,,42,33,http://www.onthesnow.com/pennsylvania/blue-mountain-ski-area/ski-resort.html
+244,Camelback Mountain Resort,Pennsylvania,2100,800,1250,0,0,0,2,0,3,5,6,16,37,5,1,166,166,100,100,1,160,,,56,50,http://www.onthesnow.com/pennsylvania/camelback-mountain-resort/ski-resort.html
+245,Eagle Rock,Pennsylvania,1810,550,1260,0,0,0,0,0,0,3,0,3,14,1,1,,0,,40,0,,,,47,,http://www.onthesnow.com/pennsylvania/eagle-rock/ski-resort.html
+246,Elk Mountain Ski Resort,Pennsylvania,2693,1000,1693,0,0,0,0,1,0,5,1,7,27,2,0.7,180,146,,100,1,90,,,60,60,http://www.onthesnow.com/pennsylvania/elk-mountain-ski-resort/ski-resort.html
+247,Jack Frost,Pennsylvania,2000,600,1400,0,0,0,0,1,2,5,1,9,20,1,1,100,100,96,105,0,,,,47,50,http://www.onthesnow.com/pennsylvania/jack-frost/ski-resort.html
+248,Liberty,Pennsylvania,1190,620,570,0,0,0,0,5,0,0,3,8,16,3,1,100,100,107,97,1,100,,,54,31,http://www.onthesnow.com/pennsylvania/liberty/ski-resort.html
+249,Mount Pleasant of Edinboro,Pennsylvania,1540,340,1200,0,0,0,0,0,1,0,1,2,10,0,0.5,40,35,75,90,1,35,,,48,100,http://www.onthesnow.com/pennsylvania/mount-pleasant-of-edinboro/ski-resort.html
+250,Roundtop Mountain Resort,Pennsylvania,1400,600,800,0,0,0,0,3,2,0,3,8,20,2,0.4,103,103,,99,1,100,,,55,30,http://www.onthesnow.com/pennsylvania/roundtop-mountain-resort/ski-resort.html
+251,Seven Springs,Pennsylvania,2994,750,2240,0,0,2,0,3,5,0,4,14,33,7,1.2,285,285,99,115,1,200,,,87,135,http://www.onthesnow.com/pennsylvania/seven-springs/ski-resort.html
+252,Shawnee Mountain Ski Area,Pennsylvania,1350,700,650,0,0,0,1,1,0,4,4,10,23,2,1.6,125,125,100,122,1,120,,,44,50,http://www.onthesnow.com/pennsylvania/shawnee-mountain-ski-area/ski-resort.html
+253,Ski Sawmill,Pennsylvania,2215,515,1700,0,0,0,0,0,1,1,3,5,14,1,0.1,15,13,,90,1,15,,,50,24,http://www.onthesnow.com/pennsylvania/ski-sawmill/ski-resort.html
+254,Montage Mountain,Pennsylvania,1960,1000,960,0,0,0,0,1,3,1,2,7,26,1,1.2,140,140,60,90,1,140,,,35,47,http://www.onthesnow.com/pennsylvania/sno-mountain/ski-resort.html
+255,Spring Mountain Ski Area,Pennsylvania,528,450,78,0,0,0,0,0,1,3,2,6,9,1,0.2,45,45,100,100,1,45,,,56,20,http://www.onthesnow.com/pennsylvania/spring-mountain-ski-area/ski-resort.html
+256,Tussey Mountain,Pennsylvania,1750,520,1230,0,0,0,0,1,0,1,3,5,8,1,0.3,38,30,100,100,1,30,,,39,41,http://www.onthesnow.com/pennsylvania/tussey-mountain/ski-resort.html
+257,Whitetail Resort,Pennsylvania,1800,935,865,0,0,0,1,3,0,2,2,8,23,2,1,120,120,116,100,1,120,,,28,40,http://www.onthesnow.com/pennsylvania/whitetail-resort/ski-resort.html
+258,Yawgoo Valley,Rhode Island,315,245,70,0,0,0,0,0,0,2,2,4,13,1,0.2,30,30,100,100,1,30,,,54,40,http://www.onthesnow.com/rhode-island/yawgoo-valley/ski-resort.html
+259,Deer Mountain Ski Resort,South Dakota,6850,940,6040,0,0,0,0,0,1,1,2,4,63,2,1.6,500,50,69,81,0,,,,51,200,http://www.onthesnow.com/south-dakota/ski-mystic-at-deer-mountain/ski-resort.html
+260,Terry Peak Ski Area,South Dakota,7100,1100,5900,0,0,0,3,0,1,0,1,5,30,1,1.2,450,225,114,120,0,,,,65,150,http://www.onthesnow.com/south-dakota/terry-peak-ski-area/ski-resort.html
+261,Ober Gatlinburg Ski Resort,Tennessee,3300,600,2700,0,0,0,0,2,0,1,1,4,10,1,1,,0,83,94,0,,,,44,35,http://www.onthesnow.com/tennessee/ober-gatlinburg-ski-resort/ski-resort.html
+262,Alta Ski Area,Utah,11068,2538,8530,0,0,0,3,0,1,2,0,6,116,0,1.3,2614,140,150,140,0,,,,81,545,http://www.onthesnow.com/utah/alta-ski-area/ski-resort.html
+263,Beaver Mountain,Utah,8600,1600,7232,0,0,0,0,0,1,3,1,5,48,2,0.8,464,0,120,120,0,,,,81,400,http://www.onthesnow.com/utah/beaver-mountain/ski-resort.html
+264,Brian Head Resort,Utah,10970,1548,9600,0,0,0,1,0,6,1,0,8,71,2,0.6,650,216,149,148,0,,,,54,360,http://www.onthesnow.com/utah/brian-head-resort/ski-resort.html
+265,Brighton Resort,Utah,10500,1745,8755,0,0,0,3,1,1,0,2,7,66,4,1.2,1050,200,138,138,1,200,,,83,500,http://www.onthesnow.com/utah/brighton-resort/ski-resort.html
+266,Deer Valley Resort,Utah,9570,3000,6570,1,0,0,13,0,5,2,0,21,103,0,2.8,2026,660,,120,0,,,,39,300,http://www.onthesnow.com/utah/deer-valley-resort/ski-resort.html
+267,Eagle Point,Utah,10600,1500,9100,0,0,0,0,1,1,2,1,5,40,1,0.9,650,0,,109,0,,,,9,400,http://www.onthesnow.com/utah/eagle-point/ski-resort.html
+268,Park City,Utah,10000,3200,6800,4,0,6,10,4,7,4,6,41,341,8,3.5,7300,750,142,143,0,,,,56,355,http://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort.html
+269,Powder Mountain,Utah,9422,2522,6900,0,0,0,1,4,1,0,3,9,167,2,3.5,8464,0,120,146,1,300,,,47,500,http://www.onthesnow.com/utah/powder-mountain/ski-resort.html
+270,Snowbasin,Utah,9350,2900,6450,3,0,1,2,0,3,0,2,11,107,4,3.5,3000,625,143,138,0,,28.6,24.9,79,300,http://www.onthesnow.com/utah/snowbasin/ski-resort.html
+271,Snowbird,Utah,11000,3240,7760,1,0,0,6,0,0,4,3,14,170,1,2.5,2500,0,188,180,1,2,,,48,500,http://www.onthesnow.com/utah/snowbird/ski-resort.html
+272,Solitude Mountain Resort,Utah,10488,2494,7994,0,0,0,4,2,1,1,1,9,80,0,3,1200,150,161,148,0,,,,62,500,http://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort.html
+273,Sundance,Utah,8250,2150,6100,0,0,0,0,2,2,0,1,5,45,1,0.6,450,112,128,129,0,,,,50,320,http://www.onthesnow.com/utah/sundance/ski-resort.html
+274,Nordic Valley Resort,Utah,6400,960,5440,0,0,0,0,0,0,2,2,4,23,1,0.4,140,84,105,105,1,140,,0.5,51,300,http://www.onthesnow.com/utah/wolf-creek/ski-resort.html
+275,Bolton Valley,Vermont,3150,1704,1446,0,0,0,0,2,0,3,1,6,71,3,0.6,300,90,133,132,1,50,18.6,,53,300,http://www.onthesnow.com/vermont/bolton-valley/ski-resort.html
+276,Bromley Mountain,Vermont,3284,1334,1950,0,0,0,1,1,0,4,3,9,47,1,2.5,178,153,,152,0,,,,83,168,http://www.onthesnow.com/vermont/bromley-mountain/ski-resort.html
+277,Burke Mountain,Vermont,3267,2011,1210,0,0,0,2,1,0,0,3,6,50,3,2.2,178,125,110,125,0,,,,62,217,http://www.onthesnow.com/vermont/burke-mountain/ski-resort.html
+278,Jay Peak,Vermont,3968,2153,1815,1,0,0,1,3,1,1,2,9,79,2,3,385,300,155,160,0,,,,64,349,http://www.onthesnow.com/vermont/jay-peak/ski-resort.html
+279,Killington Resort,Vermont,4241,3050,1165,3,0,1,5,4,3,1,5,22,155,6,6,1515,600,192,,0,,,,61,250,http://www.onthesnow.com/vermont/killington-resort/ski-resort.html
+280,Mad River Glen,Vermont,3637,2037,1600,0,0,0,0,0,2,2,1,5,52,0,1,115,16,134,135,0,,,,71,228,http://www.onthesnow.com/vermont/mad-river-glen/ski-resort.html
+281,Magic Mountain,Vermont,2850,1500,1350,0,0,0,0,0,0,3,3,6,50,1,1.6,205,95,76,80,0,,,9.3,59,150,http://www.onthesnow.com/vermont/magic-mountain/ski-resort.html
+282,Mount Snow,Vermont,3600,1700,1900,0,0,1,3,1,6,4,5,20,86,10,3,600,480,135,135,0,,,,65,156,http://www.onthesnow.com/vermont/mount-snow/ski-resort.html
+283,Okemo Mountain Resort,Vermont,3344,2200,1144,0,0,1,4,5,3,0,7,20,121,9,4,667,654,146,152,0,,,,63,200,http://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort.html
+284,Pico Mountain ,Vermont,3967,1967,2000,0,0,0,2,0,2,2,1,7,59,1,4,260,156,,115,0,,,,82,250,http://www.onthesnow.com/vermont/pico-mountain-at-killington/ski-resort.html
+285,Smugglers' Notch Resort,Vermont,3640,2610,1030,0,0,0,0,0,0,6,2,8,78,6,3,1000,192,136,135,0,,,,63,280,http://www.onthesnow.com/vermont/smugglers-notch-resort/ski-resort.html
+286,Stowe Mountain Resort,Vermont,4395,2360,2035,2,0,0,0,4,2,2,2,12,116,0,3.7,485,388,155,137,0,,,,86,314,http://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort.html
+287,Stratton Mountain,Vermont,3875,2003,1872,1,0,4,1,2,1,1,1,11,99,4,3,670,474,155,160,0,,,,58,180,http://www.onthesnow.com/vermont/stratton-mountain/ski-resort.html
+288,Sugarbush,Vermont,4083,2600,1483,0,0,0,5,5,2,1,3,16,111,4,3,581,406,150,156,0,,,,61,250,http://www.onthesnow.com/vermont/sugarbush/ski-resort.html
+289,Suicide Six,Vermont,1200,650,550,0,0,0,0,0,0,2,1,3,24,0,0.4,100,50,100,106,0,,,,85,90,http://www.onthesnow.com/vermont/suicide-six/ski-resort.html
+290,Bryce Resort,Virginia,1750,500,1250,0,0,0,0,1,0,1,5,7,8,0,0.4,25,25,100,95,1,20,,,54,30,http://www.onthesnow.com/virginia/bryce-resort/ski-resort.html
+291,Massanutten,Virginia,2925,1110,1750,0,0,0,0,3,1,0,3,7,13,2,0.8,70,70,68,97,1,70,,,46,35,http://www.onthesnow.com/virginia/massanutten/ski-resort.html
+292,The Homestead Ski Area,Virginia,3200,700,2500,0,0,0,0,0,0,1,1,2,10,0,1,45,100,91,100,0,,,,60,50,http://www.onthesnow.com/virginia/the-homestead-ski-area/ski-resort.html
+293,Wintergreen Resort,Virginia,3515,1003,2512,0,0,2,0,1,1,1,0,5,27,2,1,129,129,107,121,1,45,,,44,34,http://www.onthesnow.com/virginia/wintergreen-resort/ski-resort.html
+294,49 Degrees North,Washington,5774,1851,3932,0,0,0,0,1,0,5,1,7,89,1,2,2325,0,101,135,1,250,,,48,301,http://www.onthesnow.com/washington/49-degrees-north/ski-resort.html
+295,Alpental,Washington,5420,2280,3140,0,0,0,1,0,0,3,1,5,24,0,1.2,825,0,120,144,1,121,,,52,428,http://www.onthesnow.com/washington/alpental/ski-resort.html
+296,Bluewood,Washington,5670,1125,4545,0,0,0,0,0,2,0,1,3,24,2,2,355,0,70,110,0,,,,40,300,http://www.onthesnow.com/washington/bluewood/ski-resort.html
+297,Crystal Mountain,Washington,7012,3100,4400,1,0,2,2,1,2,2,0,10,57,1,2.5,2600,10,,149,0,,,,57,486,http://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort.html
+298,Mission Ridge,Washington,6820,2250,4570,0,0,0,1,0,0,3,2,6,53,3,0.8,2000,66,104,96,1,500,,,53,200,http://www.onthesnow.com/washington/mission-ridge/ski-resort.html
+299,Mt. Baker,Washington,5000,1500,3500,0,0,0,0,8,0,0,2,10,38,0,0.7,1000,0,143,165,0,,,,66,663,http://www.onthesnow.com/washington/mt-baker/ski-resort.html
+300,Mt. Spokane Ski and Snowboard Park,Washington,5889,2000,4200,0,0,0,0,0,1,5,1,7,52,3,0.6,1704,0,100,103,1,45,,,81,300,http://www.onthesnow.com/washington/mt-spokane-ski-and-snowboard-park/ski-resort.html
+301,Stevens Pass Resort,Washington,5845,1800,4061,0,0,0,3,0,4,3,0,10,52,4,1,1125,0,116,145,1,450,,,82,460,http://www.onthesnow.com/washington/stevens-pass-resort/ski-resort.html
+302,The Summit at Snoqualmie,Washington,3865,1025,2840,0,0,0,3,3,4,10,7,27,112,5,0.8,1994,5,120,140,1,541,,,82,428,http://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort.html
+303,White Pass,Washington,6550,2050,4500,0,0,0,2,1,1,2,2,8,45,2,2.5,1402,30,148,144,1,90,,0.2,67,400,http://www.onthesnow.com/washington/white-pass/ski-resort.html
+304,Canaan Valley Resort,West Virginia,4280,850,3430,0,0,0,0,1,2,0,1,4,47,1,1.2,95,75,,93,0,,,,48,160,http://www.onthesnow.com/west-virginia/canaan-valley-resort/ski-resort.html
+305,Snowshoe Mountain Resort,West Virginia,4848,1500,3348,0,0,0,3,2,6,0,3,14,60,5,1.5,257,257,125,138,1,86,,,46,180,http://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort.html
+306,Timberline Four Seasons,West Virginia,4265,1000,3268,0,0,0,0,0,2,1,1,4,40,1,2,100,100,97,115,1,27,,,37,150,http://www.onthesnow.com/west-virginia/timberline-four-seasons/ski-resort.html
+307,Winterplace Ski Resort,West Virginia,3600,603,2997,0,0,0,0,2,3,2,2,9,27,2,1.2,90,90,120,120,1,74,,,36,100,http://www.onthesnow.com/west-virginia/winterplace-ski-resort/ski-resort.html
+308,Alpine Valley Resort,Wisconsin,1040,388,820,0,0,0,3,0,3,1,5,12,21,3,0.2,90,90,100,120,1,90,,,55,80,http://www.onthesnow.com/wisconsin/alpine-valley-resort/ski-resort.html
+309,Bruce Mound,Wisconsin,1375,375,1000,0,0,0,0,0,1,0,4,5,12,2,0.5,40,30,42,42,1,30,0.9,,71,42,http://www.onthesnow.com/wisconsin/bruce-mound/ski-resort.html
+310,Cascade Mountain,Wisconsin,1280,460,820,0,0,0,2,2,3,2,3,12,47,4,1.1,175,175,120,120,0,,,,57,56,http://www.onthesnow.com/wisconsin/cascade-mountain/ski-resort.html
+311,Christie Mountain,Wisconsin,1650,350,1300,0,0,0,0,0,0,1,5,6,30,4,0.8,45,41,92,120,1,35,,,43,48,http://www.onthesnow.com/wisconsin/christie-mountain/ski-resort.html
+312,Christmas Mountain,Wisconsin,1250,250,1000,0,0,0,0,1,0,0,2,3,16,0,0.4,40,40,75,70,1,40,,,50,20,http://www.onthesnow.com/wisconsin/christmas-mountain/ski-resort.html
+313,Devils Head,Wisconsin,995,500,495,0,0,0,0,3,1,6,2,12,27,1,1,260,260,110,135,1,200,,,48,45,http://www.onthesnow.com/wisconsin/devils-head/ski-resort.html
+314,Grand Geneva,Wisconsin,1086,211,875,0,0,0,0,0,0,3,3,6,20,1,0.2,30,30,90,93,1,30,,,25,25,http://www.onthesnow.com/wisconsin/grand-geneva/ski-resort.html
+315,Granite Peak Ski Area,Wisconsin,1942,700,1242,0,0,1,2,0,2,0,2,7,75,4,0.6,220,160,136,135,1,200,,,82,75,http://www.onthesnow.com/wisconsin/granite-peak-ski-area/ski-resort.html
+316,Little Switzerland,Wisconsin,1269,200,1069,0,0,0,0,0,0,4,4,8,18,3,1,50,50,,121,1,50,,,,,http://www.onthesnow.com/wisconsin/little-switzerland/ski-resort.html
+317,Mount La Crosse,Wisconsin,1110,516,594,0,0,0,0,0,0,3,1,4,19,1,0.4,100,100,115,100,1,90,,,60,40,http://www.onthesnow.com/wisconsin/mount-la-crosse/ski-resort.html
+318,Nordic Mountain,Wisconsin,1137,265,872,0,0,0,0,0,1,1,5,7,18,4,1,60,60,68,90,1,60,,,43,80,http://www.onthesnow.com/wisconsin/nordic-mountain/ski-resort.html
+319,Sunburst,Wisconsin,1100,214,866,0,0,0,0,0,0,3,6,9,13,4,0.5,37,37,99,115,1,37,,,59,50,http://www.onthesnow.com/wisconsin/sunburst/ski-resort.html
+320,Trollhaugen,Wisconsin,1200,260,920,0,0,0,0,2,0,1,5,8,24,4,0.5,86,86,130,120,1,86,,,69,50,http://www.onthesnow.com/wisconsin/trollhaugen/ski-resort.html
+321,Tyrol Basin,Wisconsin,1160,300,860,0,0,0,0,0,3,0,2,5,18,5,0.5,32,32,112,103,1,32,,,61,41,http://www.onthesnow.com/wisconsin/tyrol-basin/ski-resort.html
+322,Whitecap Mountain,Wisconsin,1750,400,1295,0,0,0,0,1,0,4,0,5,43,1,1,400,300,105,118,0,,,,57,200,http://www.onthesnow.com/wisconsin/whitecap-mountain/ski-resort.html
+323,Wilmot Mountain,Wisconsin,1030,230,800,0,0,0,0,3,2,2,3,10,23,2,0.5,135,135,125,139,1,135,,,81,70,http://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort.html
+324,Grand Targhee Resort,Wyoming,9920,2270,7851,0,0,0,2,2,0,0,1,5,95,1,2.7,2602,0,152,152,0,,,,50,500,http://www.onthesnow.com/wyoming/grand-targhee-resort/ski-resort.html
+325,Hogadon Basin,Wyoming,8000,640,7400,0,0,0,0,0,0,1,1,2,28,1,0.6,92,32,121,95,0,,,,61,80,http://www.onthesnow.com/wyoming/hogadon/ski-resort.html
+326,Jackson Hole,Wyoming,10450,4139,6311,3,0,0,4,4,1,2,1,15,130,6,4.5,2500,195,130,133,0,,,,54,459,http://www.onthesnow.com/wyoming/jackson-hole/ski-resort.html
+327,Meadowlark Ski Lodge,Wyoming,9500,1000,8500,0,0,0,0,0,1,1,1,3,14,1,1.5,300,0,,113,0,,3.1,,9,,http://www.onthesnow.com/wyoming/meadowlark-ski-lodge/ski-resort.html
+328,Sleeping Giant Ski Resort,Wyoming,7428,810,6619,0,0,0,0,0,1,1,1,3,48,1,1,184,18,61,77,0,,,,81,310,http://www.onthesnow.com/wyoming/sleeping-giant-ski-resort/ski-resort.html
+329,Snow King Resort,Wyoming,7808,1571,6237,0,0,0,0,1,1,1,0,3,32,2,1,400,250,121,123,1,110,,,80,300,http://www.onthesnow.com/wyoming/snow-king-resort/ski-resort.html
+330,Snowy Range Ski & Recreation Area,Wyoming,9663,990,8798,0,0,0,0,0,1,3,1,5,33,2,0.7,75,30,131,,0,,,,59,250,http://www.onthesnow.com/wyoming/snowy-range-ski-recreation-area/ski-resort.html
+331,White Pine Ski Area,Wyoming,9500,1100,8400,0,0,0,0,0,2,0,0,2,25,0,0.4,370,0,,122,0,,,,81,150,http://www.onthesnow.com/wyoming/white-pine-ski-area/ski-resort.html
