@@ -5,6 +5,5 @@ def get_resort_by_id(id):
     return Resort.serialize_all(resort)
 
 def get_resort_names_by_state(state):
-    print(state)
     resorts = Resort.query.filter_by(state=state).all()
     return [Resort.serialize_name(resort) for resort in resorts]
