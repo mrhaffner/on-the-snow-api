@@ -1,0 +1,4 @@
+env
+__pycache__
+resorts.sqlite3
+resorts.csv
