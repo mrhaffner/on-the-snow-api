@@ -4,7 +4,6 @@ from project import create_app
 def test_resorts_get():
     flask_app = create_app('flask_test.cfg')
 
-    # Create a test client using the Flask application configured for testing
     with flask_app.test_client() as test_client:
         response = test_client.get('/resorts')
         assert response.status_code == 200
@@ -15,7 +14,6 @@ def test_resorts_get():
 def test_resorts_id_get():
     flask_app = create_app('flask_test.cfg')
 
-    # Create a test client using the Flask application configured for testing
     with flask_app.test_client() as test_client:
         response = test_client.get('/resorts/33')
         assert response.status_code == 200
@@ -50,5 +48,16 @@ def test_resorts_id_get():
         assert data["night_skiing"] == 1 or data["night_skiing"] == 0
         assert data["state"] == "colorado"
 
+def test_resorts_by_state_get():
+    flask_app = create_app('flask_test.cfg')
 
+    with flask_app.test_client() as test_client:
+        response = test_client.get('/resorts/state/colorado')
+        assert response.status_code == 200
+        assert b"Snowbird" not in response.data
+        assert b"Vail" in response.data
+        data = response.get_json()
+        assert data[0]["name"] == "Arapahoe Basin Ski Area"
+        assert data[2]["id"] == 30
+        assert len(response.get_json()) == 22
 
