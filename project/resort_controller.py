@@ -1,4 +1,4 @@
-from models import Resort
+from project.models import Resort
 
 def get_resort_by_id(id):
     resort = Resort.query.filter_by(id=id).first()
