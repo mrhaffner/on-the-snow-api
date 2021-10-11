@@ -12,9 +12,6 @@ def create_app(config_filename=None):
     return app
 
 
-##########################
-#### Helper Functions ####
-##########################
 
 def initialize_extensions(app):
     with app.app_context():
@@ -27,3 +24,4 @@ def register_blueprints(app):
     from project.routes import blueprint
 
     app.register_blueprint(blueprint)
+
