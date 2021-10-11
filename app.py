@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
 from flask_sqlalchemy import SQLAlchemy
 import resort_controller
+from routes import blueprint
 
 app = Flask(__name__)
 
@@ -9,20 +10,7 @@ db = SQLAlchemy(app)
 
 db.Model.metadata.reflect(db.engine)
 
-@app.route("/resorts", methods=["GET"])
-def get_all_resort_names():
-    resorts = resort_controller.get_all_resort_names()
-    return jsonify(resorts)
-
-@app.route("/resort/<id>", methods=["GET"])
-def get_resort_by_id(id):
-    resort = resort_controller.get_resort_by_id(id)
-    return jsonify(resort)
-
-@app.route("/resort/state/<state>", methods=["GET"])
-def get_resort_names_by_state(state):
-    resorts = resort_controller.get_resort_names_by_state(state)
-    return jsonify(resorts)
+app.register_blueprint(blueprint)
 
 @app.after_request
 def after_request(response):
