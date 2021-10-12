@@ -11,3 +11,8 @@ def get_resort_names_by_state(state):
 def get_all_resort_names():
     resorts = Resort.query.all()
     return [Resort.serialize_name(resort) for resort in resorts]
+
+def get_state_list():
+    query = Resort.query.with_entities(Resort.state).distinct()
+    states = [state.state for state in query.all()]
+    return states

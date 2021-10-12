@@ -5,6 +5,8 @@ class Resort(db.Model):
     __tablename__ = 'resorts'
     __table_args__ = { 'extend_existing': True }
     id = db.Column(db.Integer, primary_key=True)  #autoincrement
+    state = db.Column(db.String)
+    
     def serialize_all(self):
         return {
             'id': self.id,

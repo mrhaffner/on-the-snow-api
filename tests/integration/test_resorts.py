@@ -52,7 +52,7 @@ def test_resorts_by_state_get():
     flask_app = create_app('flask_test.cfg')
 
     with flask_app.test_client() as test_client:
-        response = test_client.get('/resorts/state/colorado')
+        response = test_client.get('/resorts/states/colorado')
         assert response.status_code == 200
         assert b"Snowbird" not in response.data
         assert b"Vail" in response.data
