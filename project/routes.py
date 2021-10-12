@@ -17,8 +17,6 @@ def get_resort_by_id(id):
 @blueprint.route("/resorts/states", methods=["GET"])
 def get_state_list():
     states = resort_controller.get_state_list()
-    print(states)
-    print(jsonify(states))
     return jsonify(states)
 
 @blueprint.route("/resorts/states/<state>", methods=["GET"])

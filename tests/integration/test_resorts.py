@@ -61,3 +61,12 @@ def test_resorts_by_state_get():
         assert data[2]["id"] == 30
         assert len(response.get_json()) == 22
 
+def test_state_names_get():
+    flask_app = create_app('flask_test.cfg')
+
+    with flask_app.test_client() as test_client:
+        response = test_client.get('/resorts/states')
+        assert response.status_code == 200
+        assert b'colorado' in response.data
+        assert b'texas' not in response.data
+        assert len(response.get_json()) == 34
