@@ -40,8 +40,8 @@ class Resort(db.Model):
             'url': self.url
         }
     
-    def serialize_name(self):
-        return {             
-            'id': self.id,
-            'name': self.name
-        }
+    # def serialize_name(self):
+    #     return {             
+    #         'id': self.id,
+    #         'name': self.name
+    #     }

@@ -8,7 +8,6 @@ def test_resorts_get():
         response = test_client.get('/resorts')
         assert response.status_code == 200
         assert b'Alyeska Resort' in response.data
-        assert b'"id": 331' in response.data
         assert len(response.get_json()) == 331
 
 def test_resorts_id_get():
@@ -56,9 +55,6 @@ def test_resorts_by_state_get():
         assert response.status_code == 200
         assert b"Snowbird" not in response.data
         assert b"Vail" in response.data
-        data = response.get_json()
-        assert data[0]["name"] == "Arapahoe Basin Ski Area"
-        assert data[2]["id"] == 30
         assert len(response.get_json()) == 22
 
 def test_state_names_get():
