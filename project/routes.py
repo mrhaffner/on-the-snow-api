@@ -6,20 +6,16 @@ blueprint = Blueprint('api', __name__, url_prefix='/')
 
 @blueprint.route("/resorts", methods=["GET"])
 def get_all_resort_names():
-    resorts = resort_controller.get_all_resort_names()
-    return jsonify(resorts)
+    return resort_controller.get_all_resort_names()
 
 @blueprint.route("/resorts/<id>", methods=["GET"])
 def get_resort_by_id(id):
-    resort = resort_controller.get_resort_by_id(id)
-    return jsonify(resort)
+    return resort_controller.get_resort_by_id(id)
 
 @blueprint.route("/resorts/states", methods=["GET"])
 def get_state_list():
-    states = resort_controller.get_state_list()
-    return jsonify(states)
+    return resort_controller.get_state_list()
 
 @blueprint.route("/resorts/states/<state>", methods=["GET"])
 def get_resort_names_by_state(state):
-    resorts = resort_controller.get_resort_names_by_state(state)
-    return jsonify(resorts)
+    return resort_controller.get_resort_names_by_state(state)
