@@ -8,7 +8,10 @@ def test_resorts_get():
         response = test_client.get('/resorts')
         assert response.status_code == 200
         assert b'Alyeska Resort' in response.data
-        assert len(response.get_json()) == 331
+        data = response.get_json()
+        assert data[0]['id'] == "49-degrees-north"
+        assert data[0]['name'] == "49 Degrees North"
+        assert len(data) == 331
 
 def test_resorts_name_get():
     flask_app = create_app('flask_test.cfg')
@@ -55,7 +58,10 @@ def test_resorts_by_state_get():
         assert response.status_code == 200
         assert b"Snowbird" not in response.data
         assert b"Vail" in response.data
-        assert len(response.get_json()) == 22
+        data = response.get_json()
+        assert data[0]['id'] == "arapahoe-basin-ski-area"
+        assert data[0]['name'] == "Arapahoe Basin Ski Area"
+        assert len(data) == 22
 
 def test_state_names_get():
     flask_app = create_app('flask_test.cfg')

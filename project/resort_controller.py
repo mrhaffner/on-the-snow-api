@@ -6,14 +6,14 @@ def get_resort_by_id(id):
 
 def get_resort_names_by_state(state):
     resorts = Resort.query.filter_by(state=state).all()
-    resortList = [resort.name for resort in resorts]
-    resortList.sort()
+    resortList = [Resort.serialize_name(resort) for resort in resorts]
+    resortList.sort(key=lambda resort: resort['id'])
     return resortList
 
 def get_all_resort_names():
     resorts = Resort.query.all()
-    resortList = [resort.name for resort in resorts]
-    resortList.sort()
+    resortList = [Resort.serialize_name(resort) for resort in resorts]
+    resortList.sort(key=lambda resort: resort['id'])
     return resortList
 
 def get_state_list():
