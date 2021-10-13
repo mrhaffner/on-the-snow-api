@@ -10,11 +10,11 @@ def test_resorts_get():
         assert b'Alyeska Resort' in response.data
         assert len(response.get_json()) == 331
 
-def test_resorts_id_get():
+def test_resorts_name_get():
     flask_app = create_app('flask_test.cfg')
 
     with flask_app.test_client() as test_client:
-        response = test_client.get('/resorts/33')
+        response = test_client.get('/resorts/crested-butte-mountain-resort')
         assert response.status_code == 200
         data = response.get_json()
         assert isinstance(data["average_snowfall"], int)
@@ -42,7 +42,7 @@ def test_resorts_id_get():
         assert isinstance(data["url"], str)
         assert isinstance(data["vertical_drop"], int)
         assert isinstance(data["years_open"], int)
-        assert data["id"] == 33
+        assert data["id"] == 'crested-butte-mountain-resort'
         assert data["name"] == "Crested Butte Mountain Resort"
         assert data["night_skiing"] == 1 or data["night_skiing"] == 0
         assert data["state"] == "colorado"
