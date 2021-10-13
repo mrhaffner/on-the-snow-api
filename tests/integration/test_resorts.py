@@ -50,6 +50,11 @@ def test_resorts_name_get():
         assert data["night_skiing"] == 1 or data["night_skiing"] == 0
         assert data["state"] == "colorado"
 
+        res2 = test_client.get('/resorts/fake-mountain')
+        assert res2.status_code == 404
+
+
+
 def test_resorts_by_state_get():
     flask_app = create_app('flask_test.cfg')
 
@@ -62,6 +67,9 @@ def test_resorts_by_state_get():
         assert data[0]['id'] == "arapahoe-basin-ski-area"
         assert data[0]['name'] == "Arapahoe Basin Ski Area"
         assert len(data) == 22
+
+        res2 = test_client.get('/resorts/texas')
+        assert res2.status_code == 404
 
 def test_state_names_get():
     flask_app = create_app('flask_test.cfg')
