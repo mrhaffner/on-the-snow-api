@@ -1,4 +1,5 @@
 from project import db
+from slugify import slugify
 
 
 class Resort(db.Model):
@@ -43,5 +44,6 @@ class Resort(db.Model):
     def serialize_name(self):
         return {             
             'id': self.id,
-            'name': self.name
+            'name': self.name,
+            'state_slug': slugify(self.state)
         }

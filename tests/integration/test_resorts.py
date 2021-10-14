@@ -11,6 +11,7 @@ def test_resorts_get():
         data = response.get_json()
         assert data[0]['id'] == "49-degrees-north"
         assert data[0]['name'] == "49 Degrees North"
+        assert data[0]['state_slug'] == "washington"
         assert len(data) == 331
 
 def test_resorts_name_get():
@@ -66,6 +67,7 @@ def test_resorts_by_state_get():
         data = response.get_json()
         assert data[0]['id'] == "arapahoe-basin-ski-area"
         assert data[0]['name'] == "Arapahoe Basin Ski Area"
+        assert data[0]['state_slug'] == "colorado"
         assert len(data) == 22
 
         res2 = test_client.get('/resorts/texas')
