@@ -53,7 +53,7 @@ def test_resorts_name_get():
 
         res2 = test_client.get('/resorts/fake-mountain')
         assert res2.status_code == 404
-
+        assert b'404 Not Found: Resort id fake-mountain does not exist.' in res2.data
 
 
 def test_resorts_by_state_get():
@@ -70,8 +70,9 @@ def test_resorts_by_state_get():
         assert data[0]['state_slug'] == "colorado"
         assert len(data) == 22
 
-        res2 = test_client.get('/resorts/texas')
+        res2 = test_client.get('/resorts/states/texas')
         assert res2.status_code == 404
+        assert b'404 Not Found: State texas does not exist or does not have resorts.' in res2.data
 
 def test_state_names_get():
     flask_app = create_app('flask_test.cfg')
