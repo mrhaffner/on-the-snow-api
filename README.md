@@ -1,4 +1,4 @@
-### This is the back end for my OnTheSnow.com Clone project!
+### This is the back end for my OnTheSnow.com clone project!
 
 #### Main technologies and libraries used:
 - Flask / Python
