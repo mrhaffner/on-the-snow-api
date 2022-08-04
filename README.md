@@ -28,7 +28,7 @@ https://github.com/mrhaffner/on-the-snow-front
 The data used in this project was obtained from:
 https://www.kaggle.com/sijialai/onthesnow
 
-The styles come directly form OnTheSnow.
+The styles come directly from OnTheSnow.
 
 ## Potential improvements:
 
